@@ -1,0 +1,16 @@
+D:\HomeworkGB\Algorithms homework\ConsoleAlgorithmsCSharp\ConsoleAlgorithmsCSharp\bin\Debug\net5.0\ConsoleAlgorithmsCSharp.exe
+D:\HomeworkGB\Algorithms homework\ConsoleAlgorithmsCSharp\ConsoleAlgorithmsCSharp\bin\Debug\net5.0\ConsoleAlgorithmsCSharp.deps.json
+D:\HomeworkGB\Algorithms homework\ConsoleAlgorithmsCSharp\ConsoleAlgorithmsCSharp\bin\Debug\net5.0\ConsoleAlgorithmsCSharp.runtimeconfig.json
+D:\HomeworkGB\Algorithms homework\ConsoleAlgorithmsCSharp\ConsoleAlgorithmsCSharp\bin\Debug\net5.0\ConsoleAlgorithmsCSharp.runtimeconfig.dev.json
+D:\HomeworkGB\Algorithms homework\ConsoleAlgorithmsCSharp\ConsoleAlgorithmsCSharp\bin\Debug\net5.0\ConsoleAlgorithmsCSharp.dll
+D:\HomeworkGB\Algorithms homework\ConsoleAlgorithmsCSharp\ConsoleAlgorithmsCSharp\bin\Debug\net5.0\ref\ConsoleAlgorithmsCSharp.dll
+D:\HomeworkGB\Algorithms homework\ConsoleAlgorithmsCSharp\ConsoleAlgorithmsCSharp\bin\Debug\net5.0\ConsoleAlgorithmsCSharp.pdb
+D:\HomeworkGB\Algorithms homework\ConsoleAlgorithmsCSharp\ConsoleAlgorithmsCSharp\obj\Debug\net5.0\ConsoleAlgorithmsCSharp.csprojAssemblyReference.cache
+D:\HomeworkGB\Algorithms homework\ConsoleAlgorithmsCSharp\ConsoleAlgorithmsCSharp\obj\Debug\net5.0\ConsoleAlgorithmsCSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\HomeworkGB\Algorithms homework\ConsoleAlgorithmsCSharp\ConsoleAlgorithmsCSharp\obj\Debug\net5.0\ConsoleAlgorithmsCSharp.AssemblyInfoInputs.cache
+D:\HomeworkGB\Algorithms homework\ConsoleAlgorithmsCSharp\ConsoleAlgorithmsCSharp\obj\Debug\net5.0\ConsoleAlgorithmsCSharp.AssemblyInfo.cs
+D:\HomeworkGB\Algorithms homework\ConsoleAlgorithmsCSharp\ConsoleAlgorithmsCSharp\obj\Debug\net5.0\ConsoleAlgorithmsCSharp.csproj.CoreCompileInputs.cache
+D:\HomeworkGB\Algorithms homework\ConsoleAlgorithmsCSharp\ConsoleAlgorithmsCSharp\obj\Debug\net5.0\ConsoleAlgorithmsCSharp.dll
+D:\HomeworkGB\Algorithms homework\ConsoleAlgorithmsCSharp\ConsoleAlgorithmsCSharp\obj\Debug\net5.0\ref\ConsoleAlgorithmsCSharp.dll
+D:\HomeworkGB\Algorithms homework\ConsoleAlgorithmsCSharp\ConsoleAlgorithmsCSharp\obj\Debug\net5.0\ConsoleAlgorithmsCSharp.pdb
+D:\HomeworkGB\Algorithms homework\ConsoleAlgorithmsCSharp\ConsoleAlgorithmsCSharp\obj\Debug\net5.0\ConsoleAlgorithmsCSharp.genruntimeconfig.cache

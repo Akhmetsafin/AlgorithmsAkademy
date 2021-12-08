@@ -1,0 +1,16 @@
+D:\HomeworkGB\AlgorithmsCSharp\AlgorithmsAkademy\FibonachiNum\bin\Debug\net5.0\FibonachiNum.exe
+D:\HomeworkGB\AlgorithmsCSharp\AlgorithmsAkademy\FibonachiNum\bin\Debug\net5.0\FibonachiNum.deps.json
+D:\HomeworkGB\AlgorithmsCSharp\AlgorithmsAkademy\FibonachiNum\bin\Debug\net5.0\FibonachiNum.runtimeconfig.json
+D:\HomeworkGB\AlgorithmsCSharp\AlgorithmsAkademy\FibonachiNum\bin\Debug\net5.0\FibonachiNum.runtimeconfig.dev.json
+D:\HomeworkGB\AlgorithmsCSharp\AlgorithmsAkademy\FibonachiNum\bin\Debug\net5.0\FibonachiNum.dll
+D:\HomeworkGB\AlgorithmsCSharp\AlgorithmsAkademy\FibonachiNum\bin\Debug\net5.0\ref\FibonachiNum.dll
+D:\HomeworkGB\AlgorithmsCSharp\AlgorithmsAkademy\FibonachiNum\bin\Debug\net5.0\FibonachiNum.pdb
+D:\HomeworkGB\AlgorithmsCSharp\AlgorithmsAkademy\FibonachiNum\obj\Debug\net5.0\FibonachiNum.GeneratedMSBuildEditorConfig.editorconfig
+D:\HomeworkGB\AlgorithmsCSharp\AlgorithmsAkademy\FibonachiNum\obj\Debug\net5.0\FibonachiNum.AssemblyInfoInputs.cache
+D:\HomeworkGB\AlgorithmsCSharp\AlgorithmsAkademy\FibonachiNum\obj\Debug\net5.0\FibonachiNum.AssemblyInfo.cs
+D:\HomeworkGB\AlgorithmsCSharp\AlgorithmsAkademy\FibonachiNum\obj\Debug\net5.0\FibonachiNum.csproj.CoreCompileInputs.cache
+D:\HomeworkGB\AlgorithmsCSharp\AlgorithmsAkademy\FibonachiNum\obj\Debug\net5.0\FibonachiNum.dll
+D:\HomeworkGB\AlgorithmsCSharp\AlgorithmsAkademy\FibonachiNum\obj\Debug\net5.0\ref\FibonachiNum.dll
+D:\HomeworkGB\AlgorithmsCSharp\AlgorithmsAkademy\FibonachiNum\obj\Debug\net5.0\FibonachiNum.pdb
+D:\HomeworkGB\AlgorithmsCSharp\AlgorithmsAkademy\FibonachiNum\obj\Debug\net5.0\FibonachiNum.genruntimeconfig.cache
+D:\HomeworkGB\AlgorithmsCSharp\AlgorithmsAkademy\FibonachiNum\obj\Debug\net5.0\FibonachiNum.csprojAssemblyReference.cache

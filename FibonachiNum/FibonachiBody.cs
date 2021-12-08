@@ -13,17 +13,26 @@ namespace FibonachiNum
         /// </summary>
         static void Run()
         {
-            //Console.WriteLine("Введите число:");
-            int n = Convert.ToInt32(Console.ReadLine());
-            for (int i = 0; i < n; i++)
+            Console.WriteLine("Введите число:");
+            string textNum = Console.ReadLine();
+            if (int.TryParse(textNum, out int numberInter))
+
             {
-                if (i < n - 1)
-                    Console.Write($"{FibonachiRecurtion(i)} | ");
-                else
-                    Console.WriteLine($"{FibonachiRecurtion(i)} | ");
+
+                for (int i = 0; i < numberInter; i++)
+                {
+                    if (i < numberInter - 1)
+                        Console.Write($"{FibonachiRecurtion(i)} | ");
+                    else
+                        Console.WriteLine($"{FibonachiRecurtion(i)} | ");
+                }
+                Console.WriteLine("продолжить нажмите любую клавишу, выйти нажмите ESC");
+                
             }
-            Console.WriteLine("продолжить нажмите любую клавишу, выйти нажмите ESC");
-            Run();
+            else
+            {
+                Console.WriteLine("Не удалось распознать число, попробуйте еще раз.");
+            }
 
         }
         /// <summary>
@@ -43,7 +52,7 @@ namespace FibonachiNum
         {
             do
             {
-                Console.WriteLine("Введите число: ");
+                //Console.WriteLine("Введите число: ");
                 Run();
 
 

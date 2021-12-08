@@ -6,7 +6,8 @@ namespace FibonachiNum
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            FibonachiBody fibonachiBody = new FibonachiBody();
+            fibonachiBody.Core();
         }
     }
 }

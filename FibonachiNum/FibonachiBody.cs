@@ -12,25 +12,19 @@ namespace FibonachiNum
             Console.WriteLine("Число Фибоначи с рекурсией");
 
             if (int.TryParse(textNum, out int numberInter))
-
             {
-
-                for (int i = 0; i < numberInter+1; i++)
+                for (int i = 0; i < numberInter + 1; i++)
                 {
                     if (i < numberInter)
                         Console.Write($"{FibonachiRecurtion(i)} | ");
                     else
                         Console.WriteLine($"{FibonachiRecurtion(i)} | ");
                 }
-
-
             }
             else
             {
                 Console.WriteLine("Не удалось распознать число, попробуйте еще раз.");
-
             }
-
         }
         /// <summary>
         /// Вычисление числа Фибоначи рекурсивным методом
@@ -41,9 +35,7 @@ namespace FibonachiNum
         {
             if (f == 0) return 0;
             if (f == 1) return 1;
-            return FibonachiRecurtion(f-1 ) + FibonachiRecurtion(f - 2);
-
-
+            return FibonachiRecurtion(f - 1) + FibonachiRecurtion(f - 2);
         }
         /// <summary>
         /// Фибоначи без рекурсии
@@ -55,14 +47,13 @@ namespace FibonachiNum
             int result = 0;
             Console.WriteLine("Число Фибоначи без рекурсии");
             if (int.TryParse(textNumnoRecur, out int numberInter))
-               
+
             {
 
                 int b = 1;
                 int tmp;
 
                 for (int i = 0; i < numberInter; i++)
-
                 {
                     tmp = result;
                     result = b;
@@ -73,10 +64,7 @@ namespace FibonachiNum
                         if (i == 0) Console.Write($"{(0)} | ");
                         if (i == 1) Console.Write($"{(1)} | ");
                         Console.Write($"{(b)} | ");
-
-                    }   
-                   
-
+                    }
                 }
                 Console.WriteLine();
             }
@@ -86,15 +74,11 @@ namespace FibonachiNum
 
             }
 
-           
+
         }
-        /*  static int FibonachiNoRec(int n)
-          Console.WriteLine("Введите число:");
-              string textNum = Console.ReadLine();
-              if (int.TryParse(textNum, out int numberInter))
-
-              {*/
-
+        /// <summary>
+        /// Сборка методов
+        /// </summary>
         public void Core()
         {
             do

@@ -68,16 +68,17 @@ namespace FibonachiNum
                     result = b;
                     b += tmp;
 
-                    if (i < numberInter-2)
+                    if (i < numberInter - 1)
                     {
                         if (i == 0) Console.Write($"{(0)} | ");
                         if (i == 1) Console.Write($"{(1)} | ");
                         Console.Write($"{(b)} | ");
-                    }
-                    if (i== numberInter-2)
-                        Console.WriteLine($"{(b)} | ");
+
+                    }   
+                   
 
                 }
+                Console.WriteLine();
             }
             else
             {
@@ -85,7 +86,7 @@ namespace FibonachiNum
 
             }
 
-
+           
         }
         /*  static int FibonachiNoRec(int n)
           Console.WriteLine("Введите число:");

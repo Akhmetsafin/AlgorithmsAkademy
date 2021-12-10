@@ -1,0 +1,58 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "MenuMyHomeWork/1.0.0": {
+        "dependencies": {
+          "ConsoleAlgorithmsCSharp": "1.0.0",
+          "FibonachiNum": "1.0.0",
+          "LinkedList": "1.0.0"
+        },
+        "runtime": {
+          "MenuMyHomeWork.dll": {}
+        }
+      },
+      "ConsoleAlgorithmsCSharp/1.0.0": {
+        "runtime": {
+          "ConsoleAlgorithmsCSharp.dll": {}
+        }
+      },
+      "FibonachiNum/1.0.0": {
+        "runtime": {
+          "FibonachiNum.dll": {}
+        }
+      },
+      "LinkedList/1.0.0": {
+        "runtime": {
+          "LinkedList.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MenuMyHomeWork/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ConsoleAlgorithmsCSharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FibonachiNum/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LinkedList/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

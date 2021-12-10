@@ -2,7 +2,7 @@
 
 namespace FibonachiNum
 {
-    class FibonachiBody
+    public class FibonachiBody
     {
         /// <summary>
         /// Вывод на косоль вычислений метода FibonachiRecurtion 
@@ -81,15 +81,16 @@ namespace FibonachiNum
         /// </summary>
         public void Core()
         {
-            do
-            {
+           //do
+          //  {
                 Console.WriteLine("Введите число:");
                 string textNum = Console.ReadLine();
                 Run(textNum);
                 Fibonachi(textNum);
-                Console.WriteLine("продолжить нажмите любую клавишу, выйти нажмите ESC");
-            }
-            while (Console.ReadKey(true).Key != ConsoleKey.Escape);
+               
+         //  }
+          // while (Console.ReadKey(true).Key != ConsoleKey.Escape);
+           
         }
 
     }

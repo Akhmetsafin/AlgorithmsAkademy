@@ -1,0 +1,117 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "ConsoleAlgorithmsCSharp/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/ConsoleAlgorithmsCSharp.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ConsoleAlgorithmsCSharp.dll": {}
+        }
+      },
+      "FibonachiNum/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/FibonachiNum.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FibonachiNum.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleAlgorithmsCSharp/1.0.0": {
+      "type": "project",
+      "path": "../ConsoleAlgorithmsCSharp/ConsoleAlgorithmsCSharp.csproj",
+      "msbuildProject": "../ConsoleAlgorithmsCSharp/ConsoleAlgorithmsCSharp.csproj"
+    },
+    "FibonachiNum/1.0.0": {
+      "type": "project",
+      "path": "../FibonachiNum/FibonachiNum.csproj",
+      "msbuildProject": "../FibonachiNum/FibonachiNum.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "ConsoleAlgorithmsCSharp >= 1.0.0",
+      "FibonachiNum >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\ArturiK\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\HomeworkGB\\AlgorithmsCSharp\\AlgorithmsAkademy\\MenuMyHomeWork\\MenuMyHomeWork.csproj",
+      "projectName": "MenuMyHomeWork",
+      "projectPath": "D:\\HomeworkGB\\AlgorithmsCSharp\\AlgorithmsAkademy\\MenuMyHomeWork\\MenuMyHomeWork.csproj",
+      "packagesPath": "C:\\Users\\ArturiK\\.nuget\\packages\\",
+      "outputPath": "D:\\HomeworkGB\\AlgorithmsCSharp\\AlgorithmsAkademy\\MenuMyHomeWork\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\ArturiK\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "D:\\HomeworkGB\\AlgorithmsCSharp\\AlgorithmsAkademy\\ConsoleAlgorithmsCSharp\\ConsoleAlgorithmsCSharp.csproj": {
+              "projectPath": "D:\\HomeworkGB\\AlgorithmsCSharp\\AlgorithmsAkademy\\ConsoleAlgorithmsCSharp\\ConsoleAlgorithmsCSharp.csproj"
+            },
+            "D:\\HomeworkGB\\AlgorithmsCSharp\\AlgorithmsAkademy\\FibonachiNum\\FibonachiNum.csproj": {
+              "projectPath": "D:\\HomeworkGB\\AlgorithmsCSharp\\AlgorithmsAkademy\\FibonachiNum\\FibonachiNum.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

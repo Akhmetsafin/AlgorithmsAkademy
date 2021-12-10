@@ -2,7 +2,7 @@
 
 namespace ConsoleAlgorithmsCSharp
 {
-    class Simple_number
+    public class Simple_number
     {
         public string welcom = "Программа определения простых и не простых чисел";
     
@@ -65,12 +65,12 @@ namespace ConsoleAlgorithmsCSharp
         /// </summary>
         public void Core()
         {
-            do
-            {
+           // do
+           // {
                 Console.WriteLine("Введите число: ");
                 Verification();
-            }
-            while (Console.ReadKey(true).Key != ConsoleKey.Escape);
+           // }
+           // while (Console.ReadKey(true).Key != ConsoleKey.Escape);
         }
 
     }

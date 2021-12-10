@@ -21,6 +21,16 @@
         "runtime": {
           "bin/placeholder/FibonachiNum.dll": {}
         }
+      },
+      "LinkedList/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/LinkedList.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LinkedList.dll": {}
+        }
       }
     }
   },
@@ -34,12 +44,18 @@
       "type": "project",
       "path": "../FibonachiNum/FibonachiNum.csproj",
       "msbuildProject": "../FibonachiNum/FibonachiNum.csproj"
+    },
+    "LinkedList/1.0.0": {
+      "type": "project",
+      "path": "../LinkedList/LinkedList.csproj",
+      "msbuildProject": "../LinkedList/LinkedList.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
       "ConsoleAlgorithmsCSharp >= 1.0.0",
-      "FibonachiNum >= 1.0.0"
+      "FibonachiNum >= 1.0.0",
+      "LinkedList >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -82,6 +98,9 @@
             },
             "D:\\HomeworkGB\\AlgorithmsCSharp\\AlgorithmsAkademy\\FibonachiNum\\FibonachiNum.csproj": {
               "projectPath": "D:\\HomeworkGB\\AlgorithmsCSharp\\AlgorithmsAkademy\\FibonachiNum\\FibonachiNum.csproj"
+            },
+            "D:\\HomeworkGB\\AlgorithmsCSharp\\AlgorithmsAkademy\\LinkedList\\LinkedList.csproj": {
+              "projectPath": "D:\\HomeworkGB\\AlgorithmsCSharp\\AlgorithmsAkademy\\LinkedList\\LinkedList.csproj"
             }
           }
         }

@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleAlgorithmsCSharp", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FibonachiNum", "FibonachiNum\FibonachiNum.csproj", "{B922EBF2-996D-41F9-B21F-1BCC71E395A6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MenuMyHomeWork", "MenuMyHomeWork\MenuMyHomeWork.csproj", "{545EE68D-E898-47A6-B1B6-26DBAEDEAFC3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MenuMyHomeWork", "MenuMyHomeWork\MenuMyHomeWork.csproj", "{545EE68D-E898-47A6-B1B6-26DBAEDEAFC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedList", "LinkedList\LinkedList.csproj", "{B39C4C12-AF39-4226-A844-7EED443DEAF8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{545EE68D-E898-47A6-B1B6-26DBAEDEAFC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{545EE68D-E898-47A6-B1B6-26DBAEDEAFC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{545EE68D-E898-47A6-B1B6-26DBAEDEAFC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B39C4C12-AF39-4226-A844-7EED443DEAF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B39C4C12-AF39-4226-A844-7EED443DEAF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B39C4C12-AF39-4226-A844-7EED443DEAF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B39C4C12-AF39-4226-A844-7EED443DEAF8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

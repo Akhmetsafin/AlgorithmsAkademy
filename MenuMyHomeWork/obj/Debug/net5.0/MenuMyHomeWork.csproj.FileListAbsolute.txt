@@ -27,3 +27,9 @@ D:\HomeworkGB\AlgorithmsCSharp\AlgorithmsAkademy\MenuMyHomeWork\obj\Debug\net5.0
 D:\HomeworkGB\AlgorithmsCSharp\AlgorithmsAkademy\MenuMyHomeWork\obj\Debug\net5.0\ref\MenuMyHomeWork.dll
 D:\HomeworkGB\AlgorithmsCSharp\AlgorithmsAkademy\MenuMyHomeWork\obj\Debug\net5.0\MenuMyHomeWork.pdb
 D:\HomeworkGB\AlgorithmsCSharp\AlgorithmsAkademy\MenuMyHomeWork\obj\Debug\net5.0\MenuMyHomeWork.genruntimeconfig.cache
+D:\HomeworkGB\AlgorithmsCSharp\AlgorithmsAkademy\MenuMyHomeWork\bin\Debug\net5.0\LinkedList.deps.json
+D:\HomeworkGB\AlgorithmsCSharp\AlgorithmsAkademy\MenuMyHomeWork\bin\Debug\net5.0\LinkedList.runtimeconfig.json
+D:\HomeworkGB\AlgorithmsCSharp\AlgorithmsAkademy\MenuMyHomeWork\bin\Debug\net5.0\LinkedList.runtimeconfig.dev.json
+D:\HomeworkGB\AlgorithmsCSharp\AlgorithmsAkademy\MenuMyHomeWork\bin\Debug\net5.0\LinkedList.exe
+D:\HomeworkGB\AlgorithmsCSharp\AlgorithmsAkademy\MenuMyHomeWork\bin\Debug\net5.0\LinkedList.dll
+D:\HomeworkGB\AlgorithmsCSharp\AlgorithmsAkademy\MenuMyHomeWork\bin\Debug\net5.0\LinkedList.pdb

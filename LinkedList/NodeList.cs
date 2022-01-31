@@ -109,7 +109,7 @@ namespace LinkedList
             var currentNode = node;
             while (currentNode != null)
             {
-                if (currentIndex == index-1)
+                if (currentIndex == index - 1)
                 {
                     RemoveNextItem(currentNode);
                     return node;
@@ -172,8 +172,8 @@ namespace LinkedList
             Console.WriteLine(node.tail.Value);
             Console.WriteLine("Добавление в конец списка 999");
             // вывод данных после довавления
-            
-           node.AddNodeAfter(node.tail, 999);
+
+            node.AddNodeAfter(node.tail, 999);
             // ввод данных на консоль
             Console.WriteLine("Содержимое списка");
             Console.WriteLine(node.head.Value);
@@ -188,8 +188,8 @@ namespace LinkedList
             Console.WriteLine("удаление элементов 2 и 3");
             node.RemoveNode(node.head, 1); //удаление указанного элемента 
             node.RemoveNextItem(node.head);//удаление с головы
-           
-           
+
+
             // кол-во элементов в списке
             Console.WriteLine("Количество элементов в списке");
             Console.WriteLine(node.GetCount());
@@ -203,8 +203,6 @@ namespace LinkedList
             //поиск по значению
             Console.WriteLine(node.FindNode(777) != null ? "Значение 777 -  Найдено" : "Значение 777 - Не найдено");
             Console.WriteLine(node.FindNode(999) != null ? "Значение 999 -  Найдено" : "Значение 999 - Не найдено");
-
-            Console.ReadLine();
         }
 
     }
